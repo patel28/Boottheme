@@ -1,0 +1,40 @@
+body{
+    /*margin-top: 40px;*/
+    /*background-color: #F9FFDB;*/
+    /*color: #fff;*/
+}
+.logo{
+    margin: 20px;
+    margin-left: 0px;
+}
+.widget_box{    
+    /*padding: 10px;*/
+    border-radius: 0px;
+    text-align: center;
+    vertical-align: middle;
+    background: #D9ECD8;
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 3px 3px #D9ECD8;
+    margin: 15px auto;
+    color:#455372;
+ }
+ 
+ .padding20{
+     padding: 20px;
+ }
+ 
+     
+ .footer{
+     border-top: 1px solid #ddd;
+     text-align: center;
+     margin-top: 10px;
+     padding: 10px;
+     color: 	 #2D3956;
+ }
+ .navbar-inner{
+     background: transparent;
+     background: #336699;
+     /*border-radius: 0px;*/
+     border: none;
+     border-bottom: 1px solid #ccc;
+ }

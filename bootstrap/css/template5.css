@@ -1,0 +1,28 @@
+@import './dnd.css';
+body { padding-top: 40px; }
+.messages{
+    padding: 0px;
+    background: #eee;
+    border-radius: 0px;
+    width: 300px;
+    float: left;
+}
+.dropdown-menu .message{
+    word-wrap: break-word;
+    white-space: normal;
+}
+.messages a .title{
+    font-weight: bold;
+    display: block;
+}
+
+.messages a:hover{
+    background: #333;
+    color: #fff;
+
+}
+
+
+@media screen and (max-width: 768px) {
+    /*body { padding-top: 0px; }*/
+}
